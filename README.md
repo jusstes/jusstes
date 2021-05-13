@@ -9,4 +9,11 @@
 ![Profile views](https://gpvc.arturio.dev/jusstes)  
 
 <!--START_SECTION:waka-->
+```text
+SCSS         27 hrs 26 mins  ███████████████▒░░░░░░░░░   60.88 % 
+HTML         12 hrs 53 mins  ███████░░░░░░░░░░░░░░░░░░   28.60 % 
+JavaScript   3 hrs 56 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+CSS          27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+Markdown     10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+```
 <!--END_SECTION:waka-->
