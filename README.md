@@ -6,7 +6,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jusstes&show_icons=true)
 
-![Profile views](https://gpvc.arturio.dev/jusstes)  
+#### My WakaTime Coding Activity
 
 <!--START_SECTION:waka-->
 ```text
@@ -17,3 +17,5 @@ CSS          27 mins         ▒░░░░░░░░░░░░░░░░
 Markdown     10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 ```
 <!--END_SECTION:waka-->
+
+![Profile views](https://gpvc.arturio.dev/jusstes)  
