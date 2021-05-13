@@ -13,9 +13,8 @@ I'm currently based in Tomsk. I'm  learning Javascript and React, working on som
 <img alt="Styled Components" src="https://img.shields.io/badge/-CSS3-0F5298?style=flat-square&logo=styled-components&logoColor=white" />
 </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jusstes&show_icons=true)
+![Aleksey's GitHub stats](https://github-readme-stats.vercel.app/api?username=jusstes&hide=issues,stars)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jusstes)](https://github.com/anuraghazra/github-readme-stats)
-
+![Aleksey's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jusstes)
 
 ![Profile views](https://gpvc.arturio.dev/jusstes)  
