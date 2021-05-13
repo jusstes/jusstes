@@ -2,7 +2,14 @@
 I'm currently based in Tomsk. I'm  learning Javascript and React, working on some side projects, and helping students [@Yandex.Practicum](https://praktikum.yandex.ru/web/) to study
 #### Things I code with
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='javascript' title='Javascript' height='40'>](https://simpleicons.org/icons/javascript.svg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg' alt='react' title='React' height='40'>](https://simpleicons.org/icons/react.svg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/webpack.svg' alt='webpack' title='Webpack' height='40'>](https://simpleicons.org/icons/webpack.svg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git.svg' alt='git' title='Git' height='40'>](https://simpleicons.org/icons/git.svg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/sass.svg' alt='sass' title='SASS' height='40'>](https://simpleicons.org/icons/sass.svg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gulp.svg' alt='gulp' title='Gulp' height='40'>](https://simpleicons.org/icons/gulp.svg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='css3' title='CSS3' height='40'>](https://simpleicons.org/icons/css3.svg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html5' title='HTML5' height='40'>](https://simpleicons.org/icons/html5.svg)
+<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-f0db4f?style=flat-square&logo=javascript&logoColor=white" />
+<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+<img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
+<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+<img alt="npm" src="https://img.shields.io/badge/-Gulp-CB3837?style=flat-square&logo=gulp&logoColor=white" />
+<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img alt="Styled Components" src="https://img.shields.io/badge/-CSS3-0F5298?style=flat-square&logo=styled-components&logoColor=white" />
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jusstes&show_icons=true)
 
