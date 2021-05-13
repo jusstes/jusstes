@@ -15,16 +15,7 @@ I'm currently based in Tomsk. I'm  learning Javascript and React, working on som
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jusstes&show_icons=true)
 
-#### My WakaTime coding activity for last week
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kosmosila)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--START_SECTION:waka-->
-```text
-SCSS         27 hrs 26 mins  ███████████████▒░░░░░░░░░   60.88 % 
-HTML         12 hrs 53 mins  ███████░░░░░░░░░░░░░░░░░░   28.60 % 
-JavaScript   3 hrs 56 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
-CSS          27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
-Markdown     10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
-```
-<!--END_SECTION:waka-->
 
 ![Profile views](https://gpvc.arturio.dev/jusstes)  
