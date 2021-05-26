@@ -1,5 +1,5 @@
 ### Hello World, I'm Aleksey 👋 and I'm front-end developer
-I'm currently based in Tomsk. I'm  learning Javascript and React, working on some side projects, and helping students [@Yandex.Practicum](https://praktikum.yandex.ru/web/) to study
+I'm currently based in Tomsk. I  learn Javascript (ES6) and React, work on some side projects, and help students [@Yandex.Praktikum](https://praktikum.yandex.ru/web/) to study
 #### Things I code with
 
 <p>
