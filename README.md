@@ -1,6 +1,6 @@
-### Hello World, I'm Aleksey 👋 and I'm front-end developer
-I'm currently based in Tomsk. I  learn Javascript (ES6) and React, work on some side projects, and help students [@Yandex.Praktikum](https://praktikum.yandex.ru/web/) to study
-#### Things I code with
+### Hello World, I'm Aleksey 👋 and I'm Frontend Developer
+I'm currently based in Tomsk. I  work for [Paraweb](https://paraweb.me/), some side projects and help students [@Yandex.Praktikum](https://praktikum.yandex.ru/web/) to study
+#### Things I code with:
 
 <p>
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-f0db4f?style=flat-square&logo=javascript&logoColor=white" />
