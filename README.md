@@ -14,8 +14,6 @@ I'm currently based in Tomsk. I  work for [Paraweb](https://paraweb.me/), some s
 <img alt="git" src="https://img.shields.io/badge/-Git-f14e32?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-![Aleksey's GitHub stats](https://github-readme-stats.vercel.app/api?username=jusstes&hide=issues,stars)
-
 ![Aleksey's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jusstes)
 
 ![Profile views](https://gpvc.arturio.dev/jusstes)  
