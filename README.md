@@ -14,6 +14,8 @@ I'm currently based in Tomsk. I  work for [Paraweb](https://paraweb.me/), some s
 <img alt="git" src="https://img.shields.io/badge/-Git-f14e32?style=flat-square&logo=git&logoColor=white" />
 </p>
 
+#### Some code stats from February 1:
+
 [![wakatime](https://wakatime.com/badge/user/45184ff6-2baf-487a-98c1-ee21366d8897.svg)](https://wakatime.com/@45184ff6-2baf-487a-98c1-ee21366d8897)
 
 ![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jusstes&layout=compact)
