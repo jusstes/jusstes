@@ -1,6 +1,6 @@
 ### Hello World, I'm Aleksey 👋 and I'm Frontend Developer
 I'm currently based in Tomsk. I  work for [Paraweb](https://paraweb.me/), some side projects and help students [@Yandex.Praktikum](https://praktikum.yandex.ru/web/) to study
-####[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=4AB197)](https://www.linkedin.com/in/golodnikov/)
+#### [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=4AB197)](https://www.linkedin.com/in/golodnikov/)
 #### Things I code with:
 
 <p>
