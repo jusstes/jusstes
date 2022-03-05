@@ -5,6 +5,7 @@ I'm currently based in Tomsk. I  work for [Paraweb](https://paraweb.me/), some s
 
 <p>
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-f0db4f?style=flat-square&logo=javascript&logoColor=white" />
+<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=typescript&logoColor=white" />
 <img alt="React" src="https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=white" />
 <img alt="Vue" src="https://img.shields.io/badge/-VueJS-42b983?style=flat-square&logo=vue&logoColor=white" />
 <img alt="Nodejs" src="https://img.shields.io/badge/-NodeJS-026e00?style=flat-square&logo=node&logoColor=white" />
