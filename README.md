@@ -1,5 +1,3 @@
-### Hello World, I'm Aleksey 👋 and I'm Frontend Developer
-I'm currently based in Saint Petersburg. I  work for [Paraweb](https://paraweb.me/), some side projects and help students [@Yandex.Praktikum](https://praktikum.yandex.ru/web/) to study
 #### [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=4AB197)](https://www.linkedin.com/in/golodnikov/)
 #### Things I code with:
 
@@ -12,7 +10,6 @@ I'm currently based in Saint Petersburg. I  work for [Paraweb](https://paraweb.m
 <img alt="Sass" src="https://img.shields.io/badge/-Sass-bf4080?style=flat-square&logo=sass&logoColor=white" />
 <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
 <img alt="Gulp" src="https://img.shields.io/badge/-Gulp-fa383e?style=flat-square&logo=gulp&logoColor=white" />
-<img alt="git" src="https://img.shields.io/badge/-Git-f14e32?style=flat-square&logo=git&logoColor=white" />
 </p>
 
 #### Some code stats from February 1, 2021:
