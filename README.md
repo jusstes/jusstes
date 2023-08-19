@@ -17,5 +17,3 @@
 [![wakatime](https://wakatime.com/badge/user/45184ff6-2baf-487a-98c1-ee21366d8897.svg)](https://wakatime.com/@45184ff6-2baf-487a-98c1-ee21366d8897)
 
 ![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jusstes&layout=compact)
-
-![Profile views](https://gpvc.arturio.dev/jusstes)  
